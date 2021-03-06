@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: skblabtest
+
+logging:
+  level:
+    root: info
+
+server:
+  port: 80
